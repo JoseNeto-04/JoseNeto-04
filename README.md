@@ -1,61 +1,65 @@
-<h1 align="center">Olá, eu sou José Alves 👋</h1>
+<h1 align="center">José Alves</h1>
 
 <p align="center">
-  Estudante de Desenvolvimento de Sistemas apaixonado por tecnologia e desenvolvimento de software.
+  Desenvolvedor em formação | Backend
 </p>
 
 <p align="center">
-  Atualmente focado em desenvolvimento backend, criação de APIs e bancos de dados.
+  Estudante de Desenvolvimento de Sistemas, focado em desenvolvimento backend,
+  APIs REST e bancos de dados.
 </p>
 
 ---
 
-## 🚀 Tecnologias
+## Sobre mim
+
+Estou construindo minha carreira em desenvolvimento de software através de
+projetos práticos e estudo contínuo.
+
+Atualmente, meu foco está no desenvolvimento backend utilizando Node.js e
+TypeScript, além do trabalho com bancos de dados relacionais e NoSQL.
+
+Tenho experiência prática com versionamento de código, desenvolvimento de
+APIs e integração com bancos de dados.
+
+---
+
+## Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,ts,mysql,mongodb,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,mysql,mongodb,git,github" />
 </p>
 
----
+### Desenvolvimento
+- Node.js
+- TypeScript
 
-## 💻 Sobre mim
+### Bancos de dados
+- MySQL
+- MongoDB
 
-- 🎓 Estudante de Desenvolvimento de Sistemas
-- 🌱 Sempre buscando aprender e evoluir na programação
-- 🔧 Desenvolvendo projetos práticos para aprimorar minhas habilidades
-- 🚀 Focado em desenvolvimento backend
-- 📚 Estudando desenvolvimento de APIs e bancos de dados
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-| Tecnologia | Conhecimento |
-|---|---|
-| Git | Versionamento de código |
-| GitHub | Repositórios e colaboração |
-| TypeScript | Desenvolvimento |
-| Node.js | Backend |
-| MySQL | Banco de dados relacional |
-| MongoDB | Banco de dados NoSQL |
+### Ferramentas
+- Git
+- GitHub
 
 ---
 
-## 📂 Projetos
+## Projetos
 
-Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado em Desenvolvimento de Sistemas.
-
-Cada projeto representa uma oportunidade de colocar em prática novos conhecimentos e evoluir minhas habilidades.
-
----
-
-## 🎯 Objetivo
-
-Construir uma base sólida como desenvolvedor, criando projetos cada vez mais completos e aprimorando meus conhecimentos em desenvolvimento de software.
+Meus repositórios apresentam projetos desenvolvidos durante minha evolução
+como desenvolvedor, aplicando conceitos de backend, APIs, bancos de dados,
+versionamento e boas práticas de desenvolvimento.
 
 ---
 
-## 📫 Contato
+## Objetivo
+
+Continuar evoluindo como desenvolvedor backend, aprimorando conhecimentos
+em desenvolvimento de software, APIs, bancos de dados e arquitetura de aplicações.
+
+---
+
+## Contato
 
 <p align="left">
   <a href="https://github.com/JoseNeto-04">
@@ -65,4 +69,6 @@ Construir uma base sólida como desenvolvedor, criando projetos cada vez mais co
 
 ---
 
-<h3 align="center">🚀 Em constante aprendizado e evolução.</h3>
+<p align="center">
+  Em constante aprendizado.
+</p>
