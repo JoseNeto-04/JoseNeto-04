@@ -26,21 +26,41 @@ APIs e integração com bancos de dados.
 
 ## Tecnologias
 
+### Desenvolvimento
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+  <strong> Node.js</strong>
 </p>
 
-### Desenvolvimento
-- Node.js
-- TypeScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts" width="40" />
+  <strong> TypeScript</strong>
+</p>
 
 ### Bancos de dados
-- MySQL
-- MongoDB
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" />
+  <strong> MySQL</strong>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
+  <strong> MongoDB</strong>
+</p>
 
 ### Ferramentas
-- Git
-- GitHub
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="40" />
+  <strong> Git</strong>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github" width="40" />
+  <strong> GitHub</strong>
+</p>
 
 ---
 
