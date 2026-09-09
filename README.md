@@ -29,39 +29,23 @@ APIs e integração com bancos de dados.
 ### Desenvolvimento
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
-  <strong> Node.js</strong>
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts" width="40" />
-  <strong> TypeScript</strong>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
 ### Bancos de dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" />
-  <strong> MySQL</strong>
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
-  <strong> MongoDB</strong>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 ### Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="40" />
-  <strong> Git</strong>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github" width="40" />
-  <strong> GitHub</strong>
-</p>
-
 ---
 
 ## Projetos
